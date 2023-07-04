@@ -1,2 +1,2 @@
 # vipinjoshivj.github.io
-My Portifolio
+# my_portfolio
